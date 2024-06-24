@@ -1,4 +1,4 @@
 # my-repository
 This is my first Git Repository
 <br>
-Author - Sakshi Raghuwanshi (Git Account)
+Author - Sakshi Raghuwanshi (My Git Account)
